@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<div id="badges">
+  <a href="yugorshkov">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <!--
 **yugorshkov/yugorshkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
