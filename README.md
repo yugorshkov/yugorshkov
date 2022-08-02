@@ -25,6 +25,8 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp
 </div>
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=LaggerKrd)](https://github.com/KnlnKS/leetcode-stats)
+
 <!--
 **yugorshkov/yugorshkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
