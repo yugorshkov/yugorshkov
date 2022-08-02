@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Yuriy 👋
 <div id="badges">
   <a href="https://www.linkedin.com/in/yugorshkov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
