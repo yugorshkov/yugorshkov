@@ -32,7 +32,7 @@ Operations manager passionate about Data Science. I like automating processes an
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;      
-  <img src="https://unpkg.com/simple-icons@7.5.0/icons/scikitlearn.svg" title="scikit-learn" alt="scikit-learn" width="40" height="40" class="filter-green"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/yugorshkov/yugorshkov/main/scikitlearn.svg" title="scikit-learn" alt="scikit-learn" width="40" height="40" class="filter-green"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp
