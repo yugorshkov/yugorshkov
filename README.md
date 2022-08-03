@@ -8,13 +8,10 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yugorshkov/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=Flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=Flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/yugorshkov">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=Flat-square&logo=telegram&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=Flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=Flat-square&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
@@ -23,9 +20,9 @@ Operations manager passionate about Data Science. I like automating processes an
 
 - 🌱 I’m currently learning algorithms and data structures
 - :man_technologist: I am interested in big data, machine learning and cloud computing
-- :keyboard: In my free time, I solve problems on ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=Flat&logo=LeetCode&logoColor=#d16c06)
+- :keyboard: In my free time, I solve problems on [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=Flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/LaggerKrd/)
 - 💬 Talk to me about :mountain:trekking, :game_die:board games, :basketball:basketball
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Things can tell a lot more about people than people can about things.
 ---
 ### :hammer_and_wrench: Languages and Tools:
 <div>
@@ -38,7 +35,10 @@ Operations manager passionate about Data Science. I like automating processes an
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/yugorshkov/yugorshkov/main/mlflow.svg" title="MLflow" alt="MLflow" width="35" height="35"/>&nbsp
 </div>
+
+---
 
 <!--
 **yugorshkov/yugorshkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
