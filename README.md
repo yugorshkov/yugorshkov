@@ -22,7 +22,7 @@
 Operations manager passionate about Data Science. I like automating processes and getting business benefits from data.
 
 - 🌱 I’m currently learning algorithms and data structures
-- :man_technologist: I am interested in big data, machine learning and cloud computing
+- :man_technologist: I am interested in big data, machine learning, cloud computing & MLOps
 - :keyboard: In my free time, I solve problems on [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=Flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/LaggerKrd/)
 - 💬 Talk to me about :mountain:trekking, :game_die:board games, :basketball:basketball
 - ⚡ Fun fact: Things can tell a lot more about people than people can about things.
